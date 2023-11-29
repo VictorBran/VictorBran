@@ -1,6 +1,6 @@
-<h3>😁Me chamam de Victor Brandão</h3>
+<h3>Me chamam de Victor Brandão :) </h3>
 
-<p>Atualmente tenho 23 anos e estou estudando na GamaAcademy para ser um dev<p>
+<p>Atualmente tenho 23 anos e estudo na 42<p>
 
 <h4>linguagens iniciadas</h4>
 
